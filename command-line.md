@@ -10,7 +10,8 @@ used in this file underneath the particular question.
    terminal on mac.
    okkkkkkkkkkkkkkkkkkkkkkkkkk!
 2. Which directory are you in?  Find it out!  Hint: `pwd`
-  pwd (E)
+
+  pwd (other pc)
 3. Navigate to your "Documents" directory (or wherever else you keep
    your stuff).  Hint: `cd`
    cd Documents
